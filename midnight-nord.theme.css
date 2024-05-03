@@ -42,7 +42,7 @@
 	--text-1: #000000; /* other normally white text */
 	--text-2: #e5e9f0; /* headings and important text */
 	--text-3: #eceff4; /* normal text */
-	--text-4: #93a4c2; /* icon buttons and channels */
+	--text-4: #000000; /* icon buttons and channels */
 	--text-5: #434c5e; /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
